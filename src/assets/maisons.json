@@ -1,0 +1,16 @@
+[{  
+    
+    "nom":"Villa France",
+    "prix": 45,
+    "favori": false,
+    "image": "./une.jpg",
+    "nbrSDB": 2},
+    
+  {"nom":"Villa Italie",
+    "prix": 55,
+    "favori": false,
+    "image": "./une2.jpg",
+    "nbrSDB": 3}
+]
+
+   
